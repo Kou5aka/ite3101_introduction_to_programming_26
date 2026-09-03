@@ -1,2 +1,1 @@
-todays_date = 'date'
-print(todays_date)
+todays_date = '3/9/2026'
