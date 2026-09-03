@@ -1,1 +1,1 @@
-int cucumbers =1
+str cucumbers =1
