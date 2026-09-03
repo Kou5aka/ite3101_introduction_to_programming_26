@@ -1,2 +1,2 @@
 cucumbers =1
-price_per_cucumber = float
+price_per_cucumber = float 3.25
