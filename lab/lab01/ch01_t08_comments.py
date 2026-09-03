@@ -1,3 +1,3 @@
 city_name = "St. Potatosburg"
-#c
+#I think citypop is a music tpye.
 city_pop = 340000
