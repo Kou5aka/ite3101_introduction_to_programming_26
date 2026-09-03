@@ -1,1 +1,1 @@
-product=
+product=11*12
