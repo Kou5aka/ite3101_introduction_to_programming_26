@@ -1,0 +1,1 @@
+print('cleese' == 'king arthur')
