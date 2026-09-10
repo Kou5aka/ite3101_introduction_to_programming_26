@@ -1,1 +1,1 @@
-print('cleese' == 'king arthur')
+print(2**3)
