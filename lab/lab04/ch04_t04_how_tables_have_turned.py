@@ -13,4 +13,4 @@ bool_three = 1<2
 bool_four = 100**2==100
 
 # Make me true!
-bool_five = 
+bool_five = 100**2!=100
