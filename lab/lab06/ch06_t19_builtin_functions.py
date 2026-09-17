@@ -1,3 +1,3 @@
-kousaka=input()
-type(kousaka)
-print()
+kousaka = input()
+
+print(type(kousaka))
