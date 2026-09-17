@@ -4,7 +4,5 @@
 
 
 # Define the spam function above this line.
-spam(
+spam()
     print('Eggs!')
-)
-    
