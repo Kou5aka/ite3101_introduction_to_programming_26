@@ -1,4 +1,4 @@
-def distance_from_zero(kousaka:Any):
+def distance_from_zero(kousaka:anyny):
     if type(kousaka)==int or type(kousaka)==float:
         return abs(kousaka)
     else:
