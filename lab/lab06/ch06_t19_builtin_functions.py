@@ -1,1 +1,2 @@
-def distance_from_zero(kousaka:)
+def distance_from_zero(kousaka:number):
+    re
