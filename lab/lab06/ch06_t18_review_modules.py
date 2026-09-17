@@ -1,3 +1,3 @@
 from math import *
-sqrt(13689);
+sqrt()
 print(sqrt(13689))
