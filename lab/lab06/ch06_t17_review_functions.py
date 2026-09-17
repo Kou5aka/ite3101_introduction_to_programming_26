@@ -1,4 +1,4 @@
-def shut_down(s:cha):
+def shut_down(s:char):
     if s==T:
         return 'Shutting down'
     elif s==False:
