@@ -13,4 +13,4 @@ bool_three = not False and 33>11
 bool_four = 11==11 and not False or '321'=='123'
 
 # Make me true!
-bool_five = None
+bool_five = 'Kou5aka'=='Kou5aka' or 'boy'=='next door'
