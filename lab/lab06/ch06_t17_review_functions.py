@@ -1,7 +1,7 @@
 def shut_down(s:char):
-    if s==T:
+    if s=='yes':
         return 'Shutting down'
-    elif s==False:
+    elif s=='no':
         return 'Shutdown aborted'
     else:
         return 'Sorry'
