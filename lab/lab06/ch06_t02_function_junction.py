@@ -6,4 +6,4 @@
 # Define the spam function above this line.
 spam():
     print('Eggs!')
-    return 0
+    return spam
