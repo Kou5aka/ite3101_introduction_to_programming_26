@@ -1,5 +1,5 @@
 def distance_from_zero(kousaka:any):
-    if type(kousaka)==<class'int' or type(kousaka)=='float':
+    if type(kousaka)==<class'int'> or type(kousaka)=='float':
         return abs(kousaka)
     else:
         return 'nope'
