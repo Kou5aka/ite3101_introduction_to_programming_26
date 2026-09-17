@@ -1,4 +1,4 @@
-def power(base:expo):  # Add your parameters here!
+def power(base:exponen):  # Add your parameters here!
     result = base ** exponent
     print("%d to the power of %d is %d." % (base, exponent, result))
 
