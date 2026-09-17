@@ -1,3 +1,3 @@
 kousaka = input()
 
-print(type(kousaka))
+print(type(kousaka) == str)
