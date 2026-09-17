@@ -10,7 +10,7 @@ bool_two = 1>2 and 2>3 or 'AAA' == 'AAA'
 bool_three = not False and 33>11
 
 # Make me true!
-bool_four = 
+bool_four = and not False or
 
 # Make me true!
 bool_five = None
