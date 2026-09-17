@@ -1,5 +1,5 @@
-def shut_down(s:bool):
-    if s==True:
+def shut_down(s:cha):
+    if s==T:
         return 'Shutting down'
     elif s==False:
         return 'Shutdown aborted'
