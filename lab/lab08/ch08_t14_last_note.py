@@ -4,7 +4,7 @@ inventory = {
     'pouch': ['flint', 'twine', 'gemstone'],
     'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf']
 }
-
+inventory[]
 # Adding a key 'burlap bag' and assigning a list to it
 inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 
