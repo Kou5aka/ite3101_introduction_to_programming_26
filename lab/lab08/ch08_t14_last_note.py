@@ -10,7 +10,6 @@ inventory['backpack']=inventory['pocket']
 inventory['backpack'].remove('dragger')
 inventory['gold']+=50
 
-print(inventory)
 # Adding a key 'burlap bag' and assigning a list to it
 inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 
