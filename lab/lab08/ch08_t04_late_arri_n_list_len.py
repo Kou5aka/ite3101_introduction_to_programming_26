@@ -3,6 +3,8 @@ suitcase.append("sunglasses")
 
 # Your code here!
 suitcase.append("HA")
+suitcase.append("CHI")
+suitcase.append("MI")
 
 list_length = 1  # Set this to the length of suitcase
 
