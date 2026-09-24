@@ -5,8 +5,8 @@ inventory = {
     'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf']
 }
 inventory['pocket'] = ['seashell', 'strange berry', 'lint']
-inventory['pocket'].sort()
 inventory['backpack']=inventory['pocket']
+inventory['backpack'].sort()
 inventory['backpack'].remove('dragger')
 inventory['gold']+=50
 
