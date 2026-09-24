@@ -1,3 +1,3 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for 123 in names:
-    print(123)
+for eman in names:
+    print(eman)

@@ -6,3 +6,5 @@ webster = {
 }
 
 # Add your code below!
+for kou in webster:
+    print(kou)
