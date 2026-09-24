@@ -7,7 +7,7 @@ inventory = {
 inventory['pocket'] = ['seashell', 'strange berry', 'lint']
 inventory.sort()
 inventory['backpack']=inventory['pocket']
-inventory.remove
+inventory.remove('dragger')
 # Adding a key 'burlap bag' and assigning a list to it
 inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 
