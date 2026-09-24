@@ -2,6 +2,7 @@ start_list = [5, 3, 1, 2, 4]
 square_list = []
 
 # Your code here!
-for square in 
+for square in start_list:
+    
 
 print(square_list)
