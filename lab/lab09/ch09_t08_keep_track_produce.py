@@ -11,5 +11,5 @@ stock = {
     "pear": 15,
 }
 for fruit in prices:
-    print("price:%s"%prices[kou])
-    print("stock%s"%stock[kou])
+    print("price:%s"%prices[fruit])
+    print("stock%s"%stock[fruit])
