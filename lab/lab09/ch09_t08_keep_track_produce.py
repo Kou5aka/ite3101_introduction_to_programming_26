@@ -10,3 +10,5 @@ stock = {
     "orange": 32,
     "pear": 15,
 }
+for kou in prices:
+    print("price:%s")
