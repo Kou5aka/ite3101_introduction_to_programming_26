@@ -12,4 +12,4 @@ stock = {
 }
 for kou in prices:
     print("price:%s"%prices[kou])
-    print("stock%s"%)
+    print("stock%s"%stock[kou])
