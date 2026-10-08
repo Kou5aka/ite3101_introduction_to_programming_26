@@ -10,6 +10,6 @@ stock = {
     "orange": 32,
     "pear": 15,
 }
-for kou in prices:
+for fruit in prices:
     print("price:%s"%prices[kou])
     print("stock%s"%stock[kou])
