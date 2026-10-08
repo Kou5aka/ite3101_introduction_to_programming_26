@@ -12,6 +12,6 @@ stock = {
 }
 
 for fruit in prices:
-    print(prices[fruit])
+    print(prices[])
     print("price:%s" % prices[fruit])
     print("stock:%s" % stock[fruit])
