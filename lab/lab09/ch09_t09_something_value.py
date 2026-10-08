@@ -20,6 +20,5 @@ total = 0
 for money in prices:
     value= prices[money]*stock[money]
     total+=value
-    print(value)
 
 print(total)
