@@ -20,3 +20,4 @@ for money in prices:
     total=0
     print(prices[money]*stock[money])
     total=prices[money]*stock[money]
+    print(total)
