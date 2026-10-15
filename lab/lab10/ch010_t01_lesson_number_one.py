@@ -1,4 +1,4 @@
 Classroom={"name":["llyod","alice","tyler"],
-           "homework":,
-           "quizzes":,
-           "test"}
+           "homework":[],
+           "quizzes":{},
+           "test":[]}
