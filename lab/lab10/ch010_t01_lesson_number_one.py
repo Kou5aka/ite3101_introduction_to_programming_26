@@ -5,13 +5,13 @@ llyod = {
     "test": []
 }
 alice = {
-    "name": ,
+    "name": "Alice",
     "homework": [],
     "quizzes": [],
     "test": []
 }
 tyler = {
-    "name": [],
+    "name": "Tyler",
     "homework": [],
     "quizzes": [],
     "test": []
