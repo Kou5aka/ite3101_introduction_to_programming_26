@@ -22,3 +22,4 @@ def average(numbers):
     total=0
     total=sum(numbers)
     total=float(total)
+    total
