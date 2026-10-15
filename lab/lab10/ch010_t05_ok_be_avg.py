@@ -24,4 +24,4 @@ def average(numbers):
     total = sum(numbers)
     total = float(total)
     total = total/len(total)
-    return
+    return total
