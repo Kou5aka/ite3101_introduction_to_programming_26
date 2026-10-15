@@ -21,4 +21,5 @@ students = [lloyd, alice, tyler]
 for stu in students:
     print(stu["name"])
     print(stu["homework"])
-    print(stu[])
+    print(stu["quizzes"])
+    print(stu["tests"])
