@@ -1,6 +1,6 @@
 llyod={
     "name":
-    "homework":
+    "homework":[]
     "quizzes":
     "test":
 }
