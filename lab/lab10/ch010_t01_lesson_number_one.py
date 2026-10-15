@@ -4,4 +4,15 @@ llyod={
     "quizzes":[],
     "test":[]
 }
-alice=
+alice={
+    "name":[],
+    "homework":[],
+    "quizzes":[],
+    "test":[]
+}
+tyler={
+    "name":[],
+    "homework":[],
+    "quizzes":[],
+    "test":[]
+}
