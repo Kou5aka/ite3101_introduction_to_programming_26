@@ -1,6 +1,6 @@
 llyod={
-    "name":["Lloyd"]
-    "homework":[]
-    "quizzes":[]
+    "name":["Lloyd"],
+    "homework":[],
+    "quizzes":[],
     "test":[]
 }
