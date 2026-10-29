@@ -48,5 +48,7 @@ def get_letter_grade(score: float) -> str:
 print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
-def get_class_average(class_list:list):
-    
+
+
+def get_class_average(class_list: list):
+    result = []
