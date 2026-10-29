@@ -31,4 +31,4 @@ def get_average(student):
     homework = (student["homework"])
     quizzes = (student["quizzes"])
     tests = (student["tests"])
-    return
+    return 
