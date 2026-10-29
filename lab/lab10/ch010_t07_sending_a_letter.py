@@ -54,4 +54,5 @@ def get_letter_grade(score: number):
         return "D"
     else:
         return "F"
-    print()
+    
+print(get_letter_grade())
