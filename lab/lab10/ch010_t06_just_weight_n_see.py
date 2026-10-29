@@ -30,5 +30,5 @@ def average(numbers: List[float]) -> float:
 def get_average(student):
     homework = average(student["homework"])
     quizzes = average(student["quizzes"])
-    tests = (student["tests"])
-    return 
+    tests = average(student["tests"])
+    return
