@@ -8,6 +8,5 @@ for i in range(0, len(n)):
 def double_list(x: list):
     range(x)
 
-
 # print(double_list(n))
 print(double_list(n))
