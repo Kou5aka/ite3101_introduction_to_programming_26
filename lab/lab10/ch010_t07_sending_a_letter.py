@@ -48,4 +48,3 @@ def get_letter_grade(score:number):
         return "B"
     else if score>=70:
         return "C"
-    
