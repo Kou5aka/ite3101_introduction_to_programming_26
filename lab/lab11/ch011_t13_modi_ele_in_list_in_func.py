@@ -6,7 +6,8 @@ for i in range(0, len(n)):
 
 
 def double_list(x: list):
-
+    for i in range(0, len(n)):
+    n[i] = n[i] * 2
 
 
 # print(double_list(n))
