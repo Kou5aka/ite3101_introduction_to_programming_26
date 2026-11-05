@@ -1,4 +1,3 @@
 board = []
-for a in range(6):
-    for b in a:
+for i in range(6):
     board.append("O")
