@@ -8,4 +8,4 @@ def my_function(x: range) -> List[int]:
     return result
 
 # print(my_function(____))  # Add your range between the parentheses!
-print(my_function(range(2)))
+print(my_function(range(3)))
