@@ -3,10 +3,9 @@ n = [3, 5, 7]
 for i in range(0, len(n)):
     print(n[i])
 
+
 def print_list(x):
     print(range(x))
 
-def double_list (x):
-    x=[];
-    for each in range(0,len(x)):
-        x.append(2*)
+
+
