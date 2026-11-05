@@ -4,11 +4,6 @@ n = [4, 5, 6]
 # Add your code here!
 
 
-##def join_lists(x, y: list):
-    result = []
-    for i in range(len(x, y)):
-        result = x+y
-    return result
 
 
 # print(join_lists(m, n))
