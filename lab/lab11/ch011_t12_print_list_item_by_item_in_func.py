@@ -6,3 +6,4 @@ for i in range(0, len(n)):
 def print_list(x):
     print(range(x))
 
+def double_list (x)
