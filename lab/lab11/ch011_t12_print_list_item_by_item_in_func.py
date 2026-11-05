@@ -9,4 +9,4 @@ def print_list(x):
 def double_list (x):
     x=[];
     for each in range(0,len(x)):
-        
+        x.append(2*)
