@@ -7,4 +7,6 @@ def print_list(x):
     print(range(x))
 
 def double_list (x):
-    
+    x=[];
+    for each in x:
+        
