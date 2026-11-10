@@ -39,4 +39,5 @@ else:
         print("You missed my battleship!")
         board[guess_row][guess_col] = "X"
         print_board(board)
-elif guess_: 
+elif:
+print("") 
