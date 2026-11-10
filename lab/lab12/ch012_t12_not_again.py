@@ -40,4 +40,4 @@ else:
         board[guess_row][guess_col] = "X"
         print_board(board)
 elif:
-print("") 
+print("You guessed that one already.") 
