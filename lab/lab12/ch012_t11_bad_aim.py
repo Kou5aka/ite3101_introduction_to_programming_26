@@ -32,8 +32,8 @@ guess_col = int(input("Guess Col: "))
 # Write your code below!
 if guess_row == ship_row and guess_col == ship_col:
     print("Congratulations! You sank my battleship!")
-    elif guess_row not in range(4) or guess_col not in range(4):
-
+elif guess_row not in range(4) or guess_col not in range(4):
+    print("")
 else:
     print("You missed my battleship!")
     board[guess_row][guess_col] = "X"
