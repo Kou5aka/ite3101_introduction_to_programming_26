@@ -4,7 +4,7 @@ for i in range(5):
 
 
 def print_board(board_in):
-    for OO in (len(board_in)):
+    for OO in board_in:
         print(OO)
 
 
