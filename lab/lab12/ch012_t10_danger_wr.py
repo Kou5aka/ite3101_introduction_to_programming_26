@@ -36,4 +36,4 @@ else:
     print("You missed my battleship!")
     guess_col="X"
     guess_row="X"
-    print(print_board([board]))
+    print(print_board([guess_col,guess_row]))
