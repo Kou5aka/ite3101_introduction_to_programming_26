@@ -6,4 +6,4 @@ def print_board(board_in):
     for OO in (range(0,len(board_in))):
     print(OO)
 
-print(print_board(bo))
+print(print_board(board))
