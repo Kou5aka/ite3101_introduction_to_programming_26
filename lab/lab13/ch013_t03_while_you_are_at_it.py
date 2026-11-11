@@ -1,7 +1,6 @@
 num = 1
 
-while False:num>10  # Fill in the condition
-    pass
+while num>10 :  # Fill in the condition
+    print(num**2)
 # Print num squared
 # Increment num (make sure to do this!)
-    print(num**2)
