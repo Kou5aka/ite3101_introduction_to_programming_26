@@ -1,5 +1,5 @@
 def reverse(text: str) -> str:
-        print(text[::-1])
+    print(text[::-1])
 
 
 print(reverse("abcd"))
