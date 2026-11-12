@@ -9,8 +9,9 @@ def digit_sum(n: int):
 def digit_sum2(n: int):
     sum = 0
     for a2 in range(len(str(n))):
-        sum += n//(10*a2)
+        sum += n%10
+        n=n//10
     return sum
 
 
-print(digit_sum2(12))
+print(digit_sum2(124))
