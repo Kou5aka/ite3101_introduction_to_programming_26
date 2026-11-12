@@ -3,5 +3,6 @@ def is_prime (x:int):
         if x%n==0:
             return False
         else:
-            retirm True
-            
+            return True
+
+print(is_prime(125))
