@@ -6,4 +6,4 @@ def is_prime(x: int):
             return True
 
 
-# print(is_prime(222))
+ print(is_prime(222))
