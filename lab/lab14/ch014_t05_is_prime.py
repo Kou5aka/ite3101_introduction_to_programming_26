@@ -3,7 +3,7 @@ def is_prime(x: int):
         if x % n == 0:
             return False
     else:
-            return True
+        return True
 
 
 print(is_prime(2))
