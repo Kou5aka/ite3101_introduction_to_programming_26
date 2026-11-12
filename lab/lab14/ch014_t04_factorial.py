@@ -5,4 +5,4 @@ def factorial(x: int):
     return mult
 
 
-print(factorial(5))
+print(factorial(5), range(x))
