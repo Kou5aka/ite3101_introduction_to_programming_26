@@ -1,8 +1,8 @@
 def digit_sum(n):
     sum = 0
-    n=str(n)
+    n = str(n)
     for a1 in range(len(n)):
-        sum += n[a1]
+        sum += int(n[a1])
     print(sum)
 
 
