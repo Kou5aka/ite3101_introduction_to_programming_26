@@ -7,3 +7,4 @@ def digit_sum(n: int):
 
 
 
+def digit_sum2(n:int')
