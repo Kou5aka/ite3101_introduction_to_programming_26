@@ -7,4 +7,6 @@ def digit_sum(n: int):
 
 
 
-def digit_sum2(n:int')
+def digit_sum2(n:int):
+    sum=0
+    for a2 in range(len)
