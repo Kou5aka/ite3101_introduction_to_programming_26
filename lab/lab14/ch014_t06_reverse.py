@@ -3,4 +3,4 @@ def reverse(text: str) -> str:
         print(text[::-1], end="")
 
 
-print(reverse(abcd))
+print(reverse("abcd"))
