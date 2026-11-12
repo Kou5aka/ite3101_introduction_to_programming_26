@@ -1,3 +1,6 @@
-def reverse (text:str) -> str:
+def reverse(text: str) -> str:
     for a in text:
-        print()
+        print(text[::-1], end="")
+
+
+print(reverse(abcd))
