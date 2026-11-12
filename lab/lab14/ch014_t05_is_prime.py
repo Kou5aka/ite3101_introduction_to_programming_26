@@ -5,4 +5,4 @@ def is_prime(x: int):
     return True
 
 
-print(is_prime(2))
+print(is_prime(1))
