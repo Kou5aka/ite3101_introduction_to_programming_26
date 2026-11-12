@@ -1,7 +1,7 @@
 hobbies = []
 
 # Add your code below!
-for i in range(3):
+for i in range(2):
     if i >= 0:
         hobby = int(input("say a hobby u like:"))
         hobbies.append(hobby)
