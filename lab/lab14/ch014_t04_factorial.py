@@ -4,4 +4,4 @@ def factorial(x: int):
         mult = mult*(num+1)
 
 
-print(5, mult)
+print(factorial(5))
