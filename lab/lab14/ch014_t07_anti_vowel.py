@@ -1,3 +1,3 @@
 def anti_vowel (text:str):
     for let in text:
-        if let == "A"
+        if let == "A" OR let =="a"
