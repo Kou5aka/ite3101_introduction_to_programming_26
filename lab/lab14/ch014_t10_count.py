@@ -3,4 +3,6 @@ def count(sequence, item):
     for a in sequence:
         if item == sequence[a]:
             times+=1
-            
+    return times
+
+print(count())
