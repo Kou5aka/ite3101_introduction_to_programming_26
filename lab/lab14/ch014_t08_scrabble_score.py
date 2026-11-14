@@ -11,7 +11,7 @@ def scrabble_score(word: str) -> str:
     for a in word:
         if a in score:
             points += score.values
-    return points
+        return points
 
 
 print(scrabble_score("hajimi"))
