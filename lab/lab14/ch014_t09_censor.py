@@ -9,3 +9,4 @@ def censor(text: str, word: str)—> str:
         else:
             result += text[num]
 
+print(censor("this hack is wack hack", "hack"))
