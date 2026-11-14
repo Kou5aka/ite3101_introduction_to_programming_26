@@ -1,4 +1,4 @@
-def median(x: list) -> list:
+def median(x: list):
     sorted(x)
     xlen = len(x)
     if xlen % 2 == 0:
@@ -7,4 +7,4 @@ def median(x: list) -> list:
         return x[xlen//2]
 
 
-print(median[1, 2, 3, 4, 5, 6])
+print(median[1, 2, 3, 4, 5])
