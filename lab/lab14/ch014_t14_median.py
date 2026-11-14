@@ -1,5 +1,5 @@
 def median(x: list):
-    sorted(x)
+    x.sorted
     xlen = len(x)
     if xlen % 2 == 0:
         return (x[xlen//2]+x[xlen//2-1])/2
