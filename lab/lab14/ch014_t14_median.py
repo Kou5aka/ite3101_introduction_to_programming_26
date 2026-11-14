@@ -4,7 +4,7 @@ def median(x: list):
     if xlen % 2 == 0:
         return (x[xlen/2]+x[xlen/2+1])/2
     else:
-        return x[xlen//2]
+        return x[len(x)//2]
 
 
 print(median([1, 2, 3, 4, 5, 6]))
