@@ -6,4 +6,4 @@ def count(sequence, item):
     return times
 
 
-print(count([1, 2, 1, 1, 2, 2, 2], 2))
+print(count([1, 2, 1, 1, 2, 2], 2))
