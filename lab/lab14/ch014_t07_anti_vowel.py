@@ -3,4 +3,4 @@ def anti_vowel (text:str):
     result=""
     for let in text:
         if let not in VOWEL:
-            result.a
+            result =  result+let
