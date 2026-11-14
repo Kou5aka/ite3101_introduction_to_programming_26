@@ -1,3 +1,4 @@
 def count(sequence, item):
-    cou = 0
-    for num in sequence:
+    times = 0
+    for a in sequence:
+        for a
