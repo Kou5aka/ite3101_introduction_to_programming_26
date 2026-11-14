@@ -6,7 +6,7 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
 
 
 def scrabble_score(word: str) -> str:
-    word = word.lower（）
+    word = word.lower()
     points = 0
     for a in word:
         if a in score:
