@@ -7,4 +7,4 @@ def median(x: list):
         return x[len(x)//2]
 
 
-print(median([1, 2, 3, 4, 5]))
+print(median([5, 2, 1, 4, 3]))
