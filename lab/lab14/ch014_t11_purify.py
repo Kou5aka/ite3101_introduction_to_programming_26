@@ -6,4 +6,4 @@ def purify(x: list) -> list:
     return result
 
 
-print(purify[1, 2, 3, 4, 5])
+print(purify([1, 2, 3, 4, 5]))
