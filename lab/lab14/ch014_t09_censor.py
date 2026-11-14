@@ -7,4 +7,4 @@ def censor (text:str,word:str)—>str:
             text[num:num+len(word)] = "*"*len(word)
             i += len(word)
         else:
-            text[i]
+            result += text[i]
