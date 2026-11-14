@@ -8,6 +8,7 @@ def censor(text: str, word: str) -> str:
             num += len(word)
         else:
             result += text[num]
+    return result
 
 
 print(censor("this hack is wack hack", "hack"))
