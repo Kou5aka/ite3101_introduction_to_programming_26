@@ -1,10 +1,10 @@
 def median(x: list):
     x = sorted(x)
-    midex = len(x)//2
+    midinde = len(x)//2
     if len(x) % 2 == 0:
-        return (x[midex//2]+x[midex//2-1])/2
+        return (x[midex]+x[midex-1])/2
     else:
-        return x[midex//2]
+        return x[midex]
 
 
-print(median([5, 2, 1, 4, 3, 6]))
+print(median([5, 2, 1, 4, 3]))
