@@ -8,3 +8,4 @@ def censor(text: str, word: str)—> str:
             num += len(word)
         else:
             result += text[num]
+
