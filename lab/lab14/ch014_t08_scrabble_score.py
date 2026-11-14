@@ -9,4 +9,7 @@ def scrabble_score (word:str)->str:
     points=0
     for a in word:
         if a in score:
-            point+=score
+            point+=score.values
+    return points
+
+print
