@@ -2,7 +2,7 @@ def censor(text: str, word: str) -> str:
 
     result = ""
     num = 0
-    for num in range(len(text)):
+    while num < range(len(text)):
         if text[num:num+len(word)] == word:
             result += "*"*len(word)
             num += len(word)
