@@ -1,1 +1,2 @@
-def product ()
+def product (x:list)->list:
+    
