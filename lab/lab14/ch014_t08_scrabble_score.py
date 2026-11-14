@@ -14,4 +14,4 @@ def scrabble_score(word: str) -> str:
     return points
 
 
-print(scrabble_score("hajimi"))
+print(scrabble_score("hajimii"))
