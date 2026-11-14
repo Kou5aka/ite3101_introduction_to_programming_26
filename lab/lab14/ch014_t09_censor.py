@@ -2,7 +2,7 @@ def censor(text: str, word: str) -> str:
 
     result = ""
     num = 0
-    while num < range(len(text)):
+    while num < len(text):
         if text[num:num+len(word)] == word:
             result += "*"*len(word)
             num += len(word)
@@ -12,4 +12,4 @@ def censor(text: str, word: str) -> str:
     return result
 
 
-print(censor("this hack is wack hack", "hack"))
+#print(censor("this hack is wack hack", "hack"))
