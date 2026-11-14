@@ -4,9 +4,10 @@ def censor(text: str, word: str) -> str:
     num = 0
     for num in range(len(text)):
         if text[num:num+len(word)] == word:
-            text[num:num+len(word)] = "*"*len(word)
+            result += "*"*len(word)
             num += len(word)
         else:
             result += text[num]
+
 
 print(censor("this hack is wack hack", "hack"))
