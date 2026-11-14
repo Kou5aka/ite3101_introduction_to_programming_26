@@ -1,1 +1,2 @@
-def purify ()
+def purify (x):
+    
