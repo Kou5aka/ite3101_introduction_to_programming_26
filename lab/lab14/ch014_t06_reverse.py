@@ -2,7 +2,7 @@ def reverse(text: str) -> str:
     #    return text[::-1]
     resultletter = []
     for lett in text:
-        add.resultletter() = lett
+        resultletter.append = lett
     return resultletter
 
 
