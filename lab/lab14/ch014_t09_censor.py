@@ -1,4 +1,4 @@
-def censor(text: str, word: str)—> str:
+def censor(text: str, word: str)-> str:
 
     result = ""
     num = 0
