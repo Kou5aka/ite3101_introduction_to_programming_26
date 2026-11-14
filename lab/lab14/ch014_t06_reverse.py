@@ -3,7 +3,7 @@ def reverse(text: str) -> str:
     resultletter = []
     for lett in text:
         resultletter.append = lett
-    return resultletter.values()
+    return resultletter
 
 
 print(reverse("HAJIMI"))
