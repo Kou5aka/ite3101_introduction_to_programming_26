@@ -2,7 +2,7 @@ def purify(x: list) -> list:
     result = []
     for num in x:
         if num % 2 == 0:
-            result.add(num)
+            add.result(num)
     return result
 
 
